@@ -3,21 +3,11 @@
 Discover and shop for premium headphones on Wearables! This e-commerce platform is built using a stack of powerful technologies to deliver an immersive shopping experience.
 
 ## Technologies Used
-
-### HTML
-The backbone of the web, providing the structure for an interactive and visually appealing user interface.
-
-### CSS
-Stylesheets that add aesthetics and design, ensuring a seamless and visually pleasing user experience.
-
-### JavaScript
-Adds interactivity and dynamic behavior, making Wearables an engaging and efficient e-commerce website.
-
-### React
-Efficiently powers the website with dynamic and interactive components, enhancing the overall user experience.
-
-### Stripe
-Ensures secure and smooth payment transactions, providing users with a trustworthy payment gateway.
+- **HTML:** The backbone of the web, providing the structure for an interactive and visually appealing user interface.
+- **CSS:** Stylesheets that add aesthetics and design, ensuring a seamless and visually pleasing user experience.
+- **Javascript:** Adds interactivity and dynamic behavior, making Wearables an engaging and efficient e-commerce website.
+- **React:** Efficiently powers the website with dynamic and interactive components, enhancing the overall user experience.
+- **Stripe:** Ensures secure and smooth payment transactions, providing users with a trustworthy payment gateway.
 
 ## Features
 
